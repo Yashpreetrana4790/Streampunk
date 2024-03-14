@@ -63,3 +63,7 @@ app.cookieparser   To enable the app to perform the crud operation on the user's
 What is middleware  ?
 
  
+
+ What is JWT ?
+
+ JWT is a bearer token - who bear it is ownder

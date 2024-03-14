@@ -46,3 +46,20 @@ Env variables are required everywhere so in order to makes them available at the
 
 
 
+then we would be requireed to install the cookies parser and then cors
+
+cors enable us to cross origin resource sharing.
+
+
+defining the gloabl middleware using appp.use and declaring app.use(express.json) to enable app to get json data
+
+use express.urlencoded to get the data from the url 
+use express.static =  to store the static  images   on own server
+
+app.cookieparser   To enable the app to perform the crud operation on the user's cookies
+
+
+
+What is middleware  ?
+
+ 
